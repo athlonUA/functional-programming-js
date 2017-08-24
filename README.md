@@ -11,3 +11,5 @@
 3) [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
 
 4) [Anjana Vakil: Immutable data structures for functional JS | JSConf EU 2017](https://www.youtube.com/watch?v=Wo0qiGPSV-s)
+
+5) [Learn the fundamentals of functional programming — for free, in your inbox](https://medium.freecodecamp.org/learning-the-fundamentals-of-functional-programming-425c9fd901c6)
